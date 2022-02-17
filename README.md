@@ -17,21 +17,15 @@ IT Engineer - General Electric Healthcare
 
 ## Contact Me 📫
 
-You can find and get touch with me via Linkedin and Instagram!
-
-[![Linkedin Badge](https://img.shields.io/badge/ahmetcanyalcin-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ahmetcanyalcin/)
-[![Instagram Badge](https://img.shields.io/badge/ahmetcanyalcin-follow%20on%20instagram-blue?style=for-the-badge&logo=instagram)](https://instagram.com/ahmetcanyalcin/)
+You can find and get touch with me via Linkedin, Kaggle and Instagram!
 
 
-<h3 > If you want to ask a question or want the follow my sharing, please follow me as below link.</h3>
-
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ahmetcanyalcin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmetcanyalcin" height="30" width="40" /></a>
 <a href="https://kaggle.com/ahmetcanyaln" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ahmetcanyaln" height="30" width="40" /></a>
-
+<a href="https://www.instagram.com/ahmetcanyalcin/" target="blank"><img align="center" src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" alt="ahmetcanyalcin" height="30" width="40" /></a>
 </p>
+
 
 
 ![snake gif](https://github.com/cagataytuylu/cagataytuylu/blob/output/github-contribution-grid-snake.gif)
