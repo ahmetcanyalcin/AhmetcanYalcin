@@ -7,7 +7,7 @@
 
 B.S in Biomedical Engineering |  [Near East University](https://www.neu.edu.tr/)
 
-MsC in Data Science |  [Cankaya University](https://www.cankaya.edu.tr/)
+MSc in Data Science |  [Cankaya University](https://www.cankaya.edu.tr/)
 
 
 ## I'm currently working on 🔭
