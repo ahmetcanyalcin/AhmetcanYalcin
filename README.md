@@ -28,4 +28,4 @@ You can find and get touch with me via Linkedin, Kaggle and Instagram!
 
 
 
-![snake gif](https://github.com/ahmetcanyalcin/ahmetcanyalcin/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/cagataytuylu/cagataytuylu/blob/output/github-contribution-grid-snake.gif)
