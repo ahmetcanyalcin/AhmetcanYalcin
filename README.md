@@ -5,9 +5,10 @@
 
 ## Graduation
 
-B.S in Biomedical Engineering |  [Near East University](https://www.neu.edu.tr/)
+- MSc in Data Science |  [Cankaya University](https://www.cankaya.edu.tr/)
 
-MSc in Data Science |  [Cankaya University](https://www.cankaya.edu.tr/)
+- B.S in Biomedical Engineering |  [Near East University](https://www.neu.edu.tr/)
+
 
 
 ## I'm currently working on 🔭
